@@ -1,0 +1,63 @@
+{
+    "users":
+    [
+        {
+            "id": 1,
+            "name": "andres arboleda",
+            "email": "andres@gmail.com",
+            "password": "1234",
+            "phone": "3176154079"
+        },
+    
+        {
+            "id": 2,
+            "name": "kendry elizabeth",
+            "email": "kendry@gmail.com",
+            "password": "7890",
+            "phone": "3006129709"
+        }
+    ],
+
+    "quiz1":
+    [
+        {
+            "id": 1,
+            "text":"¿Cuál es el país de origen de la marca Ferrari?",
+            "question1": "Alemania",
+            "question2": "Francia",
+            "question3": "Italia",
+            "question4": "Estados Unidos",
+            "corret": "Italia"
+            
+        },
+        {
+            "id": 2,
+            "text":"¿Qué significa ABS en los autos?",
+            "question1": "Advanced Brake System",
+            "question2": "Automatic Braking System",
+            "question3": "Anti-lock Braking System",
+            "question4": "Automatic Balance Systems",
+            "corret": "Anti-lock Braking System"
+        },
+        {
+            "id": 3,
+            "text":"¿Cuál es el tipo de motor más común en los autos de gasolina?",
+            "question1": "V8",
+            "question2": "V12",
+            "question3": "V6",
+            "question4": "4 cilindros en línea",
+            "corret": "4 cilindros en línea"
+        },
+        {
+            "id": 4,
+            "text":"¿Qué auto es conocido como El escarabajo?",
+            "question1": "Fiat 500",
+            "question2": "Volkswagen Beetle",
+            "question3": "Mini Cooper",
+            "question4": "Citroën 2CV",
+            "corret": "Volkswagen Beetle"
+        }
+    ]
+    
+}
+    
