@@ -1,0 +1,135 @@
+{
+    "users":
+    [
+        {
+            "id": 1,
+            "name": "andres arboleda",
+            "email": "andres@gmail.com",
+            "password": "1234",
+            "phone": "3176154079",
+            "coins": 0
+        },
+    
+        {
+            "id": 2,
+            "name": "kendry elizabeth",
+            "email": "kendry@gmail.com",
+            "password": "7890",
+            "phone": "3006129709",
+            "coins": 0
+        }
+    ],
+
+    "quizes":
+    [
+        {
+            "id":1,
+            "nombre":"quiz1",
+            "preguntas":[
+
+                {
+                    "id": 1,
+                    "text":"¿Cuál es el país de origen de la marca Ferrari?",
+                    "questions": ["Alemania","Francia","Italia","Estados Unidos"],
+                    "position":"2",
+                    "corret": "Italia"
+                    
+                },
+                {
+                    "id": 2,
+                    "text":"¿Qué significa ABS en los autos?",
+                    "questions": ["Advanced Brake System","Automatic Braking System","Anti-lock Braking System","Automatic Balance Systems"],
+                    "position":"2",
+                    "corret": "Anti-lock Braking System"
+                },
+                {
+                    "id": 3,
+                    "text":"¿Cuál es el tipo de motor más común en los autos de gasolina?",
+                    "questions": ["V8","V12","V6","4 cilindros en línea"],
+                    "position":"3",
+                    "corret": "4 cilindros en línea"
+                },
+                {
+                    "id": 4,
+                    "text":"¿Qué auto es conocido como El escarabajo?",
+                    "questions": ["Fiat 500","Volkswagen Beetle","Mini Cooper","Citroën 2CV"],
+                    "position":"1",
+                    "corret": "Volkswagen Beetle"
+                }
+
+            ]
+        },
+        {
+            "id":2,
+            "nombre":"quiz2",
+            "preguntas":[
+                {
+                    "id": 1,
+                    "text":"¿En qué año fue lanzado el Ford Mustang",
+                    "questions": ["1962","1964","1966","1968"],
+                    "position":"1",
+                    "corret": "1964"
+                },
+                {
+                    "id": 2,
+                    "text":"¿Qué significa el logo de Mercedes-Benz?",
+                    "questions": ["Tecnología avanzada","Lujo y velocidad","Dominio en tierra, mar y aire","Historia automotriz"],
+                    "position":"2",
+                    "corret": "Dominio en tierra, mar y aire"
+                },
+                {
+                    "id": 3,
+                    "text":"¿Cuál es la función principal de un turbo en un motor?",
+                    "questions": ["Reducir el consumo de combustible","Aumentar la velocidad máxima","Mejorar la eficiencia del motor","Comprimir aire para aumentar potencia"],
+                    "position":"3",
+                    "corret": "Comprimir aire para aumentar potencia"
+                },
+                {
+                    "id": 4,
+                    "text":"¿Qué fabricante produce el modelo Civic?",
+                    "questions": ["Toyota","Nissan","Honda","Mazda"],
+                    "position":"2",
+                    "corret": "Honda"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "nombre":"quiz3",
+            "preguntas":
+            [
+                {
+                    "id": 1,
+                    "text":"¿Cuál es el nombre de la tecnología que permite a los autos detectar objetos y evitar colisiones??",
+                    "questions": ["Control de crucero","Frenado automático","Detección de objetos","Sistema de alerta de colisión"],
+                    "position":"3",
+                    "corret": "Sistema de alerta de colisión"
+                },
+                {
+                    "id": 2,
+                    "text":"¿Qué marca de autos tiene un caballo como logo?",
+                    "questions": ["Lamborghini","Ferrari","Porsche","Maserati"],
+                    "position":"1",
+                    "corret": "Ferrari"
+                },
+                {
+                    "id": 3,
+                    "text":"¿Qué tipo de vehículo es una SUV?",
+                    "questions": ["Sedan Utility Vehicle","Sporty Urban Vehicle"," Sport Utility Vehicle","Standard Urban Vehicle"],
+                    "position":"2",
+                    "corret": "Sport Utility Vehicle"
+                },
+                {
+                    "id": 4,
+                    "text":"¿Qué tipo de tracción se usa comúnmente en los vehículos todoterreno?",
+                    "questions": ["Tracción trasera","Tracción delantera","Tracción en las cuatro ruedas (4WD)","Tracción central"],
+                    "position":"2",
+                    "corret": "Tracción en las cuatro ruedas (4WD)"
+                }
+            ]
+        }
+    ]
+    
+    
+}
+    
