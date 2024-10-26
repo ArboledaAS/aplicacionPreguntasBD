@@ -7,7 +7,9 @@
             "email": "andres@gmail.com",
             "password": "1234",
             "phone": "3176154079",
-            "coins": 0
+            "coins": 0,
+            "win": 0,
+            "lose": 0
         },
     
         {
@@ -16,7 +18,9 @@
             "email": "kendry@gmail.com",
             "password": "7890",
             "phone": "3006129709",
-            "coins": 0
+            "coins": 0,
+            "win": 0,
+            "lose": 0
         }
     ],
 
