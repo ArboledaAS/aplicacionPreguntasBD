@@ -28,7 +28,7 @@
     "quizes": [
         {
             "id": 1,
-            "nombre": "quiz1",
+            "nombre": "quiz 1",
             "preguntas": [
                 {
                     "id": 1,
@@ -48,11 +48,11 @@
                     "questions": [
                         "Advanced Brake System",
                         "Automatic Braking System",
-                        "Anti-lock Braking System",
+                        "Anti lock Braking System",
                         "Automatic Balance Systems"
                     ],
                     "position": "2",
-                    "corret": "Anti-lock Braking System"
+                    "corret": "Anti lock Braking System"
                 },
                 {
                     "id": 3,
@@ -82,7 +82,7 @@
         },
         {
             "id": 2,
-            "nombre": "quiz2",
+            "nombre": "quiz 2",
             "preguntas": [
                 {
                     "id": 1,
@@ -136,7 +136,7 @@
         },
         {
             "id": 3,
-            "nombre": "quiz3",
+            "nombre": "quiz 3",
             "preguntas": [
                 {
                     "id": 1,
@@ -145,10 +145,10 @@
                         "Control de crucero",
                         "Frenado automático",
                         "Detección de objetos",
-                        "Sistema de alerta de colisión"
+                        "Sistema de alerta de colision"
                     ],
                     "position": "3",
-                    "corret": "Sistema de alerta de colisión"
+                    "corret": "Sistema de alerta de colision"
                 },
                 {
                     "id": 2,
@@ -185,6 +185,299 @@
                     ],
                     "position": "2",
                     "corret": "Tracción en las cuatro ruedas (4WD)"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "quiz 4",
+            "preguntas":[
+                {
+                    "id": 1,
+                    "text": "¿En qué año fue lanzado el Ford Mustang?",
+                    "questions": [
+                        "1962",
+                        "1964",
+                        "1966",
+                        "1968"
+                    ],
+                    "position": "1",
+                    "corret": "1964"
+                },
+                {
+                    "id": 2,
+                    "text": "¿Qué significa el logo de Mercedes-Benz?",
+                    "questions": [
+                        "Tecnología avanzada",
+                        "Lujo y velocidad",
+                        "Dominio en tierra, mar y aire",
+                        "Historia automotriz  "
+                    ],
+                    "position": "2",
+                    "corret": "Dominio en tierra, mar y aire"
+                },
+                {
+                    "id": 3,
+                    "text": "¿Cuál es la función principal de un turbo en un motor?",
+                    "questions": [
+                        "Reducir el consumo de combustible",
+                        "Aumentar la velocidad máxima",
+                        "Mejorar la eficiencia del motor",
+                        "Comprimir aire para aumentar potencia"
+                    ],
+                    "position": "3",
+                    "corret": "Comprimir aire para aumentar potencia"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "quiz 5",
+            "preguntas":[
+                {
+                    "id": 1,
+                    "text": "¿Qué fabricante produce el modelo Civic?",
+                    "questions": [
+                        "Toyota",
+                        "Nissan",
+                        "Honda",
+                        "Mazda"
+                    ],
+                    "position": "2",
+                    "corret": "Honda"
+                },
+                {
+                    "id": 2,
+                    "text": "¿Qué tipo de motor tiene un Tesla Model S?",
+                    "questions": [
+                        "Motor de gasolina",
+                        "Motor híbrido",
+                        "Motor eléctrico",
+                        "Motor diésel"
+                    ],
+                    "position": "2",
+                    "corret": "Motor eléctrico"
+                },
+                {
+                    "id": 3,
+                    "text": "¿Cuál es el auto eléctrico más vendido en el mundo en 2021?",
+                    "questions": [
+                        "Tesla Model 3",
+                        "Nissan Leaf",
+                        "Chevrolet Bolt",
+                        "BMW i3"
+                    ],
+                    "position": "0",
+                    "corret": "Tesla Model 3"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "quiz 6",
+            "preguntas":[
+                {
+                    "id": 1,
+                    "text": "¿Qué marca es famosa por sus modelos todoterreno como el Wrangler?",
+                    "questions": [
+                        "Land Rover",
+                        "Jeep",
+                        "Toyota",
+                        "Ford"
+                    ],
+                    "position": "1",
+                    "corret": "Jeep"
+                },
+                {
+                    "id": 2,
+                    "text": "¿Cuál de estos modelos es un deportivo clásico de Chevrolet?",
+                    "questions": [
+                        "Camaro",
+                        "Challenger",
+                        "Mustang",
+                        "Charger"
+                    ],
+                    "position": "0",
+                    "corret": "Camaro"
+                },
+                {
+                    "id": 3,
+                    "text": "¿Cuál es la velocidad máxima del Bugatti Veyron Super Sport?",
+                    "questions": [
+                        "350 km/h",
+                        "400 km/h",
+                        "431 km/h",
+                        "450 km/h"
+                    ],
+                    "position": "2",
+                    "corret": "431 km/h"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nombre": "quiz 7",
+            "preguntas":[
+                {
+                    "id": 1,
+                    "text": "¿Cuál es la marca de lujo de Toyota?",
+                    "questions": [
+                        "Acura",
+                        "Lexus",
+                        "Infiniti",
+                        "Genesis"
+                    ],
+                    "position": "1",
+                    "corret": "Lexus"
+                },
+                {
+                    "id": 2,
+                    "text": "¿Qué fabricante produce el modelo Chiron?",
+                    "questions": [
+                        "Ferrari",
+                        "Bugatti",
+                        "Lamborghini",
+                        "McLaren"
+                    ],
+                    "position": "1",
+                    "corret": "Bugatti"
+                },
+                {
+                    "id": 3,
+                    "text": "¿En qué año se lanzó el primer vehículo eléctrico de producción masiva de Nissan, el Leaf?",
+                    "questions": [
+                        "2008",
+                        "2010",
+                        "2012",
+                        "2014"
+                    ],
+                    "position": "1",
+                    "corret": "2010"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nombre": "quiz 8",
+            "preguntas":[
+                {
+                    "id": 1,
+                    "text": "¿Cuál es el auto más vendido en la historia?",
+                    "questions": [
+                        "HoFord F-150",
+                        "Honda Accord",
+                        "Volkswagen Golf",
+                        "Toyota Corolla"
+                    ],
+                    "position": "3",
+                    "corret": "Toyota Corolla"
+                },
+                {
+                    "id": 2,
+                    "text": "¿Cuál es la función de un diferencial en un auto?",
+                    "questions": [
+                        "Mejorar la aceleración",
+                        "Distribuir la potencia entre las ruedas",
+                        "Controlar el frenado",
+                        "Aumentar la velocidad"
+                    ],
+                    "position": "1",
+                    "corret": "Distribuir la potencia entre las ruedas"
+                },
+                {
+                    "id": 3,
+                    "text": "¿Cuál es el país de origen de la marca de autos Hyundai?",
+                    "questions": [
+                        "Japón",
+                        "China",
+                        "Corea del Sur",
+                        "India"
+                    ],
+                    "position": "2",
+                    "corret": "Corea del Sur"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "nombre": "quiz 9",
+            "preguntas":[
+                {
+                    "id": 1,
+                    "text": "¿Qué fabricante produce el modelo Mazda MX-5?",
+                    "questions": [
+                        "Subaru",
+                        "Toyota",
+                        "Mazda",
+                        "Nissan"
+                    ],
+                    "position": "2",
+                    "corret": "Mazda"
+                },
+                {
+                    "id": 2,
+                    "text": "¿Cuál es el significado de MPG en la industria automotriz?",
+                    "questions": [
+                        "Millas por galón",
+                        "Metros por galón",
+                        "Millas por gasolina",
+                        "Motores por galón"
+                    ],
+                    "position": "0",
+                    "corret": "Millas por galón"
+                },
+                {
+                    "id": 3,
+                    "text": "¿Qué fabricante lanzó el primer auto híbrido de producción masiva?",
+                    "questions": [
+                        "Tesla",
+                        "Toyota",
+                        "Ford",
+                        "Nissan"
+                    ],
+                    "position": "1",
+                    "corret": "Toyota"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "nombre": "quiz 10",
+            "preguntas":[
+                {
+                    "id": 1,
+                    "text": "¿Qué auto de lujo es conocido por su icónico logo en forma de estrella de tres puntas?",
+                    "questions": [
+                        "Audi",
+                        "Mercedes Benz",
+                        "BMW",
+                        "Volvo"
+                    ],
+                    "position": "1",
+                    "corret": "Mercedes Benz"
+                },{
+                    "id": 2,
+                    "text": "¿Qué significa GT en los modelos de autos deportivos?",
+                    "questions": [
+                        "Gran Turbo",
+                        "Gran Touring",
+                        "Grand Technology",
+                        "Grand Torque"
+                    ],
+                    "position": "1",
+                    "corret": "Gran Touring"
+                },
+                {
+                    "id": 3,
+                    "text": "¿Qué marca tiene el modelo Challenger?",
+                    "questions": [
+                        "Ford",
+                        "Dodge",
+                        "Chevrolet",
+                        "Buick"
+                    ],
+                    "position": "1",
+                    "corret": "Dodge"
                 }
             ]
         }
